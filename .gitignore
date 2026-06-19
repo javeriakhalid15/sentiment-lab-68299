@@ -1,4 +1,5 @@
-﻿venv/
+﻿@"
+venv/
 __pycache__/
 mlruns/
-results/
+"@ | Set-Content .gitignore
