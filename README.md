@@ -1,4 +1,4 @@
-# Legal Notice Classification, Sentiment Lab 68299
+# Legal Notice Classification
 
 ## Project Description
 A multi-class text classifier that categorizes short legal notices into three classes:
