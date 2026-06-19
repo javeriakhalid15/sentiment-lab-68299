@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, precision_recall_fscore_support, confusion_matrix
 
 
-def run_experiment(X, y, model, model_name, feat_name, config, save_dir="../results"):
+def run_experiment(X, y, model, model_name, feat_name, config, save_dir="results"):
     """Train a model, evaluate it on a held-out test set, and save a confusion matrix.
 
     Args:
